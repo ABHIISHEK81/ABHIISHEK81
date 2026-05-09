@@ -1,28 +1,260 @@
-<h1 align="center">Hi 👋, I'm ABHISHEK SHARMA</h1>
-<h3 align="center">A passionate developer crafting frontend experiences and exploring scalable data solutions.</h3>
+<h1 align="center">Hi 👋, I'm ABHISHEK SHARMA </h1>
 
-- 🔭 I’m currently working on [Smart Dashboard](AI Text Speak)
+<h3 align="center">
+Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Data Analysis | python Developer | Business Analysis | AI ML Engineer
+</h3>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and server-side rendering Data orchestration techniques and metadata cataloging with cloud tools Writing optimized SQL across dialects (Postgres, BigQuery)**
+---
 
-- 💬 Ask me about **React | Vue | GSAP Python scripting | SQL optimizations | Modular C programming Metadata strategies | Data lifecycle best practices**
+## 🚀 About Me
 
-- 📫 How to reach me **abhishekpratapsharma81@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1638OO3CpPTuLpN9ttmj8Lx8Z31_TelXX/view?usp=drive_link](https://drive.google.com/file/d/1638OO3CpPTuLpN9ttmj8Lx8Z31_TelXX/view?usp=drive_link)
+* 🔭 Currently engineering AI-powered analytics platforms, intelligent automation workflows, and collaborative multi-agent systems
+* 🌱 Actively learning advanced MLOps, distributed machine learning pipelines, cloud-native AI infrastructure, and scalable data orchestration techniques
+* 💡 Passionate about Machine Learning, Generative AI, Data Engineering, Deep Learning, and AI-driven decision systems
+* 📊 Skilled in transforming raw, unstructured data into scalable analytical solutions and actionable business intelligence
+* 🧠 Solved 350+ algorithmic and data structure problems across competitive coding platforms, strengthening analytical and optimization skills
+* ⚡ Experienced in building end-to-end machine learning workflows including data preprocessing, feature engineering, model training, evaluation, and deployment
+* ☁️ Hands-on experience with Google Cloud Platform, Vertex AI, Gemini API, and modern AI tooling for production-ready AI applications
+* 🛠 Proficient in Python, SQL, Scikit-learn, PyTorch, Power BI, Git, MLflow, and modern data science ecosystems
+* 📈 Interested in developing scalable AI systems that combine machine learning, automation, and real-time analytics
+* 🔍 Strong focus on clean architecture, modular system design, performance optimization, and reproducible ML experimentation
+* 🤝 Collaborative team player with strong communication, problem-solving, and technical presentation abilities
+* 🚀 Continuously exploring emerging technologies in Generative AI, LLM orchestration, intelligent agents, and cloud-based AI deployment
+* 🎯 Seeking opportunities to contribute to impactful AI, Data Science, and Machine Learning projects in fast-growing technology environments
 
-- ⚡ Fun fact **I debug code the same way I tell jokes—methodical, recursive, and strangely satisfying 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhishek8052314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek8052314" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@code_withabhi?si=zu1f9jpnbfitwhch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@code_withabhi?si=zu1f9jpnbfitwhch" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhishekpratap24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishekpratap24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mr_abhishek8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mr_abhishek8/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@mr_abhishek_pratap_sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mr_abhishek_pratap_sharma/" height="30" width="40" /></a>
-</p>
+### 💻 Programming Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+* Python
+* SQL
+* C
+* C++
+* JavaScript (Basics)
+* R Language
+---
+
+### 🤖 Data Science & Machine Learning
+
+* Scikit-learn
+* PyTorch
+* TensorFlow (Fundamentals)
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Model Training & Evaluation
+* Data Preprocessing
+* Predictive Modeling
+* Classification & Regression Techniques
+
+---
+
+### 📊 Data Visualization & Analytics
+
+* Power BI
+* Matplotlib
+* Dashboard Development
+* Business Intelligence Reporting
+* KPI Monitoring
+* Data Storytelling
+* Interactive Data Visualization
+
+---
+
+### 🗄 Databases & Data Management
+
+* MySQL
+* PostgreSQL
+* SQLite
+* Database Query Optimization
+* Relational Database Design
+* Data Cleaning & Transformation
+
+---
+
+### ⚙️ Tools, Platforms & Development
+
+* Git
+* GitHub
+* MLflow
+* Jupyter Notebook
+* JupyterLab
+* VS Code
+* Linux Environment
+* REST API Fundamentals
+* Modular Programming
+* Workflow Automation
+
+---
+
+### ☁️ Cloud, AI & Generative AI
+
+* Google Cloud Platform (GCP)
+* Vertex AI
+* Gemini API
+* Prompt Engineering
+* AI Workflow Automation
+* Generative AI Applications
+* Multi-Agent AI Systems
+* Cloud-Based AI Deployment Concepts
+
+---
+
+### 🚀 MLOps & Engineering Concepts
+
+* Machine Learning Pipelines
+* Experiment Tracking
+* Model Optimization
+* Scalable AI Workflows
+* Data Pipeline Fundamentals
+* Reproducible ML Experiments
+* AI System Design Concepts
+
+---
+
+### 🧠 Core Professional Strengths
+
+* Problem Solving
+* Data Structures & Algorithms
+* Analytical Thinking
+* Team Collaboration
+* Communication Skills
+* Technical Documentation
+* Fast Learning & Adaptability
+* Research-Oriented Mindset
+
+---
+
+## 📌 Featured Projects
+
+---
+
+### 🤖 Multi-Agent AI System
+
+**AI Collaboration Framework for Intelligent Task Automation**
+
+* Engineered a scalable multi-agent AI architecture where multiple intelligent agents collaborate to perform complex tasks including data retrieval, contextual analysis, workflow automation, and decision support
+* Designed modular orchestration pipelines to improve communication efficiency and coordination between AI agents
+* Implemented prompt engineering strategies and structured workflows to optimize task execution and scalability
+* Explored intelligent automation concepts for enterprise-level AI applications and autonomous workflow management
+* Focused on scalable AI system design, distributed agent collaboration, and real-time analytical processing
+
+**Tech Stack:**
+Python • Generative AI • Prompt Engineering • AI Workflow Automation • Multi-Agent Systems
+
+---
+
+### ✋ Gesture Recognition System using OpenCV
+
+**Real-Time Computer Vision & Human-Computer Interaction System**
+
+* Developed a real-time hand gesture recognition application using OpenCV and Python for touchless interaction systems
+* Applied image processing and computer vision techniques for gesture detection, feature extraction, and classification
+* Optimized frame processing and gesture tracking pipelines for smooth real-time performance
+* Enabled intelligent human-computer interaction through dynamic gesture interpretation
+* Strengthened practical expertise in computer vision, image analysis, and real-time AI systems
+
+**Tech Stack:**
+Python • OpenCV • Computer Vision • Image Processing • NumPy
+
+---
+
+### 📊 HR Analytics Dashboard using Power BI
+
+**Interactive Business Intelligence & Workforce Analytics Solution**
+
+* Designed and developed an interactive HR Analytics dashboard to monitor employee attrition, workforce performance, and organizational KPIs
+* Processed and transformed HR datasets using SQL and Power BI to generate actionable business insights
+* Built dynamic visualizations for workforce trends, employee retention analysis, and performance monitoring
+* Improved reporting efficiency through data-driven dashboard automation and interactive analytics
+* Focused on business intelligence, decision support systems, and executive-level reporting solutions
+
+**Tech Stack:**
+Power BI • SQL • Data Visualization • Business Intelligence • Data Analytics
+
+---
+
+### 📈 Data Analytics & Reporting Workflows
+
+**Business Data Analysis and Insight Generation**
+
+* Worked on structured data analysis workflows involving data cleaning, preprocessing, transformation, and reporting
+* Performed exploratory data analysis to identify patterns, trends, and operational insights from business datasets
+* Developed analytical reporting solutions to support strategic decision-making processes
+* Strengthened practical understanding of data lifecycle management and business-focused analytics
+
+**Tech Stack:**
+Python • SQL • Pandas • Data Analysis • Reporting
+
+---
+
+### ☁️ AI & Cloud-Based Workflow Exploration
+
+**Cloud-Native AI and Scalable ML Workflow Concepts**
+
+* Explored cloud-native AI ecosystems including Google Cloud Platform, Vertex AI, and Generative AI tooling
+* Learned scalable machine learning workflow concepts including experiment tracking, model lifecycle management, and deployment fundamentals
+* Built foundational understanding of production-oriented AI infrastructure and cloud-based analytics systems
+* Continuously experimenting with modern AI frameworks, automation tools, and intelligent system architectures
+
+**Tech Stack:**
+Google Cloud Platform • Vertex AI • MLflow • Generative AI • Cloud AI Concepts
+
+---
+
+## 🚀 Project Focus Areas
+
+* Artificial Intelligence & Generative AI
+* Machine Learning Engineering
+* Computer Vision Applications
+* Data Analytics & Visualization
+* Workflow Automation
+* Cloud-Based AI Systems
+* Intelligent Decision Support Systems
+* Scalable AI Architectures
+
+
+---
+
+## 🏆 Achievements
+
+* 🧠 Solved 350+ Data Structures and Algorithms problems across platforms like LeetCode, strengthening problem-solving, optimization, and analytical thinking skills
+* ☁️ Earned certifications in Google Cloud Platform, Generative AI, Data Analytics, and modern AI technologies
+* 🚀 Developed multiple end-to-end AI, Machine Learning, and Data Analytics projects focused on real-world business problem solving
+* 🤖 Built scalable AI-powered systems including Multi-Agent AI architectures, intelligent automation workflows, and analytics dashboards
+* 📊 Designed interactive business intelligence dashboards using Power BI for workforce analytics, KPI monitoring, and decision support
+* 💡 Applied machine learning, statistical analysis, and data preprocessing techniques in practical enterprise-oriented use cases
+* 🏅 Participated in national-level hackathons and innovation competitions organized by GUVI, HCL, and AI-focused communities
+* ⚡ Gained hands-on experience with cloud-based AI ecosystems including Google Cloud Platform, Vertex AI, and Generative AI tooling
+* 🔍 Continuously exploring advanced domains such as MLOps, AI orchestration, cloud-native machine learning workflows, and scalable AI system design
+* 🛠 Built strong technical foundations in Python, SQL, Machine Learning, Data Engineering concepts, and workflow automation
+* 📈 Demonstrated consistent learning and adaptability by working across Data Science, Machine Learning, Computer Vision, and AI automation domains
+* 🤝 Recognized for strong collaboration, communication, technical presentation, and fast-learning capabilities during internships and project development
+* 🎯 Focused on building production-oriented AI solutions that combine intelligent automation, scalable analytics, and real-time data-driven decision systems
+
+---
+
+## 🚀 Professional Highlights
+
+* Machine Learning & AI Enthusiast with hands-on project development experience
+* Strong foundation in analytical problem solving and scalable data workflows
+* Passionate about Generative AI, Intelligent Automation, and AI Engineering
+* Experience working with real-world business datasets and analytics pipelines
+* Continuously improving expertise in cloud computing, AI systems, and production-level ML workflows
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/abhishek-sharma-334947349
+- Email: abhishekpratapsharma81@gmail.com
+- LeetCode: https://leetcode.com/u/mr_abhishek8/
+
+---
+
+## ⚡ Philosophy
+
+"Build scalable systems, solve meaningful problems, and let data drive intelligent decisions."
