@@ -4,12 +4,7 @@
 Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Data Analysis | python Developer | Business Analysis | AI ML Engineer
 </h3>
 
----
-
 ## 🚀 About Me
-
-## 🚀 About Me
-
 * 🔭 Currently engineering AI-powered analytics platforms, intelligent automation workflows, and collaborative multi-agent systems
 * 🌱 Actively learning advanced MLOps, distributed machine learning pipelines, cloud-native AI infrastructure, and scalable data orchestration techniques
 * 💡 Passionate about Machine Learning, Generative AI, Data Engineering, Deep Learning, and AI-driven decision systems
@@ -24,20 +19,15 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * 🚀 Continuously exploring emerging technologies in Generative AI, LLM orchestration, intelligent agents, and cloud-based AI deployment
 * 🎯 Seeking opportunities to contribute to impactful AI, Data Science, and Machine Learning projects in fast-growing technology environments
 
----
-
 ### 💻 Programming Languages
-
 * Python
 * SQL
 * C
 * C++
 * JavaScript (Basics)
 * R Language
----
 
 ### 🤖 Data Science & Machine Learning
-
 * Scikit-learn
 * PyTorch
 * TensorFlow (Fundamentals)
@@ -50,10 +40,7 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Predictive Modeling
 * Classification & Regression Techniques
 
----
-
 ### 📊 Data Visualization & Analytics
-
 * Power BI
 * Matplotlib
 * Dashboard Development
@@ -62,10 +49,7 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Data Storytelling
 * Interactive Data Visualization
 
----
-
 ### 🗄 Databases & Data Management
-
 * MySQL
 * PostgreSQL
 * SQLite
@@ -73,10 +57,7 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Relational Database Design
 * Data Cleaning & Transformation
 
----
-
 ### ⚙️ Tools, Platforms & Development
-
 * Git
 * GitHub
 * MLflow
@@ -88,10 +69,7 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Modular Programming
 * Workflow Automation
 
----
-
 ### ☁️ Cloud, AI & Generative AI
-
 * Google Cloud Platform (GCP)
 * Vertex AI
 * Gemini API
@@ -100,11 +78,8 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Generative AI Applications
 * Multi-Agent AI Systems
 * Cloud-Based AI Deployment Concepts
-
----
-
+  
 ### 🚀 MLOps & Engineering Concepts
-
 * Machine Learning Pipelines
 * Experiment Tracking
 * Model Optimization
@@ -113,10 +88,7 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Reproducible ML Experiments
 * AI System Design Concepts
 
----
-
 ### 🧠 Core Professional Strengths
-
 * Problem Solving
 * Data Structures & Algorithms
 * Analytical Thinking
@@ -126,14 +98,7 @@ Data Science Engineer | Machine Learning Enthusiast | AI Systems Developer | Dat
 * Fast Learning & Adaptability
 * Research-Oriented Mindset
 
----
-
-## 📌 Featured Projects
-
----
-
 ### 🤖 Multi-Agent AI System
-
 **AI Collaboration Framework for Intelligent Task Automation**
 
 * Engineered a scalable multi-agent AI architecture where multiple intelligent agents collaborate to perform complex tasks including data retrieval, contextual analysis, workflow automation, and decision support
@@ -160,10 +125,7 @@ Python • Generative AI • Prompt Engineering • AI Workflow Automation • M
 **Tech Stack:**
 Python • OpenCV • Computer Vision • Image Processing • NumPy
 
----
-
 ### 📊 HR Analytics Dashboard using Power BI
-
 **Interactive Business Intelligence & Workforce Analytics Solution**
 
 * Designed and developed an interactive HR Analytics dashboard to monitor employee attrition, workforce performance, and organizational KPIs
@@ -175,10 +137,7 @@ Python • OpenCV • Computer Vision • Image Processing • NumPy
 **Tech Stack:**
 Power BI • SQL • Data Visualization • Business Intelligence • Data Analytics
 
----
-
 ### 📈 Data Analytics & Reporting Workflows
-
 **Business Data Analysis and Insight Generation**
 
 * Worked on structured data analysis workflows involving data cleaning, preprocessing, transformation, and reporting
@@ -188,8 +147,6 @@ Power BI • SQL • Data Visualization • Business Intelligence • Data Analy
 
 **Tech Stack:**
 Python • SQL • Pandas • Data Analysis • Reporting
-
----
 
 ### ☁️ AI & Cloud-Based Workflow Exploration
 
@@ -203,10 +160,7 @@ Python • SQL • Pandas • Data Analysis • Reporting
 **Tech Stack:**
 Google Cloud Platform • Vertex AI • MLflow • Generative AI • Cloud AI Concepts
 
----
-
 ## 🚀 Project Focus Areas
-
 * Artificial Intelligence & Generative AI
 * Machine Learning Engineering
 * Computer Vision Applications
@@ -216,11 +170,7 @@ Google Cloud Platform • Vertex AI • MLflow • Generative AI • Cloud AI Co
 * Intelligent Decision Support Systems
 * Scalable AI Architectures
 
-
----
-
 ## 🏆 Achievements
-
 * 🧠 Solved 350+ Data Structures and Algorithms problems across platforms like LeetCode, strengthening problem-solving, optimization, and analytical thinking skills
 * ☁️ Earned certifications in Google Cloud Platform, Generative AI, Data Analytics, and modern AI technologies
 * 🚀 Developed multiple end-to-end AI, Machine Learning, and Data Analytics projects focused on real-world business problem solving
@@ -235,26 +185,17 @@ Google Cloud Platform • Vertex AI • MLflow • Generative AI • Cloud AI Co
 * 🤝 Recognized for strong collaboration, communication, technical presentation, and fast-learning capabilities during internships and project development
 * 🎯 Focused on building production-oriented AI solutions that combine intelligent automation, scalable analytics, and real-time data-driven decision systems
 
----
-
 ## 🚀 Professional Highlights
-
 * Machine Learning & AI Enthusiast with hands-on project development experience
 * Strong foundation in analytical problem solving and scalable data workflows
 * Passionate about Generative AI, Intelligent Automation, and AI Engineering
 * Experience working with real-world business datasets and analytics pipelines
 * Continuously improving expertise in cloud computing, AI systems, and production-level ML workflows
 
----
-
 ## 📫 Connect With Me
-
 - LinkedIn: www.linkedin.com/in/abhishek-sharma-334947349
 - Email: abhishekpratapsharma81@gmail.com
 - LeetCode: https://leetcode.com/u/mr_abhishek8/
 
----
-
 ## ⚡ Philosophy
-
 "Build scalable systems, solve meaningful problems, and let data drive intelligent decisions."
