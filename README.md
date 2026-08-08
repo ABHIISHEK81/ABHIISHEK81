@@ -26,13 +26,13 @@ President — Career Catalyst ClubLeading student initiatives focused on Data Sc
 
 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/abhishek-sharma-334947349/
-GitHub: https://github.com/ABHIISHEK81
-LeetCode: https://leetcode.com/u/mr_abhishek8/
-X: https://x.com/Abhishek8052314
-Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/0a7dea74-d149-49b5-9052-beda600ca36d
-HackerRank: https://www.hackerrank.com/profile/abhishekpratap24
-Portfolio: https://abhishekwebpro.netlify.app/
+LinkedIn: https://www.linkedin.com/in/abhishek-sharma-334947349/<br>
+GitHub: https://github.com/ABHIISHEK81<br>
+LeetCode: https://leetcode.com/u/mr_abhishek8/<br>
+X: https://x.com/Abhishek8052314<br>
+Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/0a7dea74-d149-49b5-9052-beda600ca36d<br>
+HackerRank: https://www.hackerrank.com/profile/abhishekpratap24<br>
+Portfolio: https://abhishekwebpro.netlify.app/<br>
 
 Email: abhishekpratapsharma81@gmail.com
 
