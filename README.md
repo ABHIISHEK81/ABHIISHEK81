@@ -1,19 +1,41 @@
-About Me
+🚀 About Me
 
-I am a results-driven Data Science & ML Engineer and Software Developer focused on building scalable AI-powered analytics platforms, intelligent automation workflows, and production-ready machine learning systems. My work spans the full lifecycle of data and ML solutions, including data preprocessing, feature engineering, model training, evaluation, deployment, and monitoring.
+President @ Career Catalyst Club | Data Science & ML Engineer | Software Developer
 
-Currently, I am actively exploring and building in Generative AI, MLOps, distributed ML pipelines, cloud-native AI infrastructure, and multi-agent systems. I enjoy transforming raw, unstructured data into actionable intelligence through clean architecture, modular design, and reproducible experimentation.
+Building AI-powered applications, ML systems, REST APIs, ETL pipelines, and multi-agent solutions using Python, FastAPI, GCP, and modern AI technologies.
 
-I have hands-on experience with Python, SQL, Scikit-learn, PyTorch, FastAPI, Power BI, Docker, Git/GitHub, GCP, Vertex AI, Gemini API, MLflow, PostgreSQL, Redis, and Qdrant. My background also includes building ETL pipelines, REST APIs, ML applications, and analytics dashboards for real-world use cases.
+Experienced with Generative AI, Machine Learning, Data Engineering, PySpark, SQL, and Cloud-Native development.
 
-I have solved 450+ LeetCode / DSA problems and continue to strengthen my problem-solving, optimization, and algorithmic thinking. I am also passionate about leadership, collaboration, and technical communication, and currently serve as President @ Career Catalyst Club.
+Skilled in Python, C++, SQL, FastAPI, Scikit-learn, PyTorch, MLflow, Docker, GCP, Vertex AI, Gemini API, PostgreSQL, Redis, and Vector Databases.
 
-My professional experience includes verified internships with Deloitte and Tata Group, where I worked on data analytics, ETL automation, ML solutions, and cloud-based deployments. I am also a Google Cloud & Generative AI Certified developer and remain committed to continuous learning in advanced AI systems and scalable software engineering.
+Hands-on experience developing production-oriented software and ML pipelines, from data preprocessing and feature engineering to model deployment and API integration.
 
-Connect With Me
+Ex-Intern @ RBI, Deloitte & Tata Group, with industry exposure to data analytics, Generative AI, ETL automation, ML solutions, and cloud-based applications.
 
-LinkedIn: https://www.linkedin.com/in/abhishek-sharma-334947349/GitHub: https://github.com/ABHIISHEK81LeetCode: https://leetcode.com/u/mr_abhishek8/X: https://x.com/Abhishek8052314Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/0a7dea74-d149-49b5-9052-beda600ca36dHackerRank: https://www.hackerrank.com/profile/abhishekpratap24Portfolio: https://abhishekwebpro.netlify.app/
+550+ LeetCode, GFG & CodeSafe problems solved, strengthening DSA, algorithmic thinking, and problem-solving skills.
 
-Philosophy
+Google Cloud & Generative AI Certified, with practical experience across GCP, Vertex AI, Gemini API, and cloud-native AI applications.
 
-Build scalable systems, solve meaningful problems, and let data drive intelligent decisions.
+Passionate about building scalable, reliable, and intelligent systems that combine software engineering, machine learning, automation, and analytics.
+
+Currently exploring LLM orchestration, AI agents, MLOps, distributed data processing, and scalable AI infrastructure.
+
+🏆 Leadership
+
+President — Career Catalyst ClubLeading student initiatives focused on Data Science, AI/ML, software development, technical mentorship, hackathons, and innovation.
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/abhishek-sharma-334947349/
+GitHub: https://github.com/ABHIISHEK81
+LeetCode: https://leetcode.com/u/mr_abhishek8/
+X: https://x.com/Abhishek8052314
+Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/0a7dea74-d149-49b5-9052-beda600ca36d
+HackerRank: https://www.hackerrank.com/profile/abhishekpratap24
+Portfolio: https://abhishekwebpro.netlify.app/
+
+Email: abhishekpratapsharma81@gmail.com
+
+⚡ Philosophy
+
+Build scalable systems. Solve meaningful problems. Turn data into intelligent decisions.
